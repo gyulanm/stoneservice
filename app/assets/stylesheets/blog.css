@@ -1,0 +1,219 @@
+@font-face {
+    font-family: 'Bickham script one';
+    src: url('/assets/bickham-script-one.woff');
+}
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Nunito+Sans:opsz,wght@6..12,200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Nunito+Sans&display=swap');
+
+.gallery {
+    background: linear-gradient(180deg, #E9E6D6 0%, rgba(255, 255, 255, 0.00) 100%);
+
+}
+
+/* .gallery__banner {} */
+
+.gallery__photo {
+    display: flex;
+    gap: 80px;
+    margin-top: 105px;
+}
+.benefits__arrow {
+    display: flex;
+    flex-direction: column;
+}
+.back {
+    border: none;
+    background: transparent;
+}
+.backpr {
+    padding-right: 1500px;
+}
+.photo2 {
+    padding-left: 150px;
+}
+.braclets {
+    max-height: 541px;
+}
+.photo1 {
+    grid-area: photo1;
+}
+
+.photo2 {
+    grid-area: photo2;
+}
+
+.photo3 {
+    grid-area: photo3;
+    margin-inline: 57px 11px;
+}
+
+.photo4 {
+    grid-area: photo4;
+}
+
+.benefits {
+    background-color: #1A1A1A;
+}
+
+.benefits__wrapper {
+    padding: 243px 143px 180px;
+}
+
+.benefits_word {
+    color: #FFFFFF;
+}
+
+.benefits_title {
+    color: #FFFFFF;
+
+}
+
+.benefits_text {
+    color: rgba(255, 255, 255, 0.50);
+}
+
+.bold {
+    color: #E9E7DB;
+    font-family: Copperplate;
+    font-size: 43x;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.benefits_description {
+    text-align: left;
+    color: rgba(255, 255, 255, 0.50);
+    font-family: Copperplate;
+    font-size: 43px;
+    font-weight: 400;
+    line-height: normal;
+    padding-bottom: 105px;
+}
+
+.photo__title {
+    color: #FFF;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.title1 {
+    padding-left: 350px;
+}
+.title2 {
+    padding-right: 272px;
+}
+.gallery_title {
+    padding-top: 240px;
+}
+.story {
+    background-color: #1A1A1A;
+    padding-bottom: 147px;
+}
+.story__banner {
+    color: #FFFFFF;
+}
+
+.story__flex {
+    display: flex;
+    gap: 75px;
+}
+
+.hidden {
+    display: none;
+}
+
+.story__cards-wrapper {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 688px;
+    column-gap: 73px;
+    padding-top: 82px;
+
+}
+
+.story__arrow {
+    background: transparent;
+    border: none;
+}
+
+.story__card-text {
+    color: var(--white, #FFF);
+    font-family: Copperplate;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 156px;
+}
+
+footer {
+    background: #EAE7D9;
+}
+
+.subscribe_word {
+    color: #1A1A1A;
+}
+
+.subscribe_title {
+    color: #1A1A1A;
+}
+
+.subscribe__wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.form__input {
+    border: none;
+    border-bottom: 2px solid #1A1A1A;
+    color: #1A1A1A;
+    font-family: Copperplate;
+    font-size: 45px;
+    font-weight: 400;
+    line-height: normal;
+    background: transparent;
+    margin-top: 101px;
+}
+
+.footer__subscribe--black {
+    background-color: #1A1A1A;
+}
+
+.form__btn {
+    border-radius: 23px;
+    padding: 15px 60px 15px 41px;
+    background-color: #1A1A1A;
+    color: #ffffff;
+    font-family: Copperplate;
+    font-size: 45px;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 87px;
+}
+
+.footer__info {
+    color: #1A1A1A;
+    text-align: left;
+    font-family: Copperplate;
+    font-size: 38px;
+
+}
+
+.info-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.copyright {
+    color: #1A1A1A;
+    text-align: right;
+    font-family: Copperplate;
+    font-size: 38px;
+}

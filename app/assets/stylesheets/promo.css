@@ -1,0 +1,209 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Nunito+Sans:opsz,wght@6..12,200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Nunito+Sans&display=swap');
+
+body {
+    background: #1E1E1F;
+}
+
+.stones {
+    padding-bottom: 82px;
+    display: flex;
+    flex-direction: row;
+    gap: 180px;}
+
+.stones__banner {
+    color: #FFFFFF;
+    padding: 103px 565px 41px;
+}
+
+.stones_button {
+    border-radius: 39px;
+    background: #C5AB84;
+    width: 319px;
+    height: 68px;
+    margin: 0 auto;
+    display: block;
+}
+
+.nav__button {
+    color: #FFF;
+    text-align: center;
+    font-family: Copperplate;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 22px 114px 17px 90px;
+    text-decoration: none;
+    display: block;
+    position: relative;
+    align-items: center;
+}
+
+.circle {
+    position: relative;
+    left: 242px;
+    bottom: 74px;
+}
+
+.stones_title {
+    text-align: center;
+}
+
+.stones_text {
+    color: #FFF;
+    text-align: center;
+    font-family: Nunito Sans;
+    font-size: 26.424px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.shell {
+    display: flex;
+    flex-direction: row;
+    gap: 26px;
+    padding: 60px 40px 42px 40px;
+}
+
+.shell-image {
+    margin: 0 auto;
+    display: block;
+    border-radius: 20px;
+}
+
+.item__img {
+    margin-left: -250px;
+}
+
+.application {
+    padding: 130px 0;
+    background: #EFECEC;
+}
+.make__img {
+    margin-right: -360px;
+    margin-top: -360px;
+}
+.item {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 100%;
+    padding-inline: 245px;
+    box-sizing: border-box;
+    column-gap: 211px;
+    margin-top: 229px;
+}
+
+.item__text {
+    color: #000;
+    font-family: Nunito Sans;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 150px;
+}
+
+.item__info {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.content__wrapper {
+    margin: 0 auto;
+    width: 1064px;
+}
+
+.content__btn {
+    background: transparent;
+    border: none;
+    padding: 35px;
+}
+
+.content__title {
+    color: var(--black, #000);
+    font-family: Copperplate;
+    font-size: 38px;
+    font-weight: 400;
+    line-height: normal;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.content__word {}
+
+.content__details {
+    border-bottom: 5px solid rgba(0, 0, 0, 0.30);
+    padding-left: 16px;
+}
+
+.content__details:first-child {
+    border-top: 5px solid rgba(0, 0, 0, 0.30);
+}
+
+.content__flex {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+.content__banner {
+    margin-top: 200px;
+}
+
+.content__text {
+    line-height: 32px;
+    font-size: 24px;
+    font-family: Copperplate;
+}
+
+.content__more {
+    height: 176px;
+    transition: all 0.5s ease-in;
+}
+
+.content__more--hidden {
+    height: 0;
+    opacity: 0;
+}
+
+.content__more--hidden p {
+    display: none;
+}
+.application__img {
+    margin-top: -360px;
+}
+.accessories_text {
+    padding: 60px 167px 157px;
+    position: relative;
+}
+.accessories_title {
+    color: #FFF;
+    font-family: Copperplate;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.accessories_word {
+    color: #FFF;
+    font-family: Bickham Script One;
+    font-size: 167px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.accessories__text {
+    color: #FFF;
+    font-family: Nunito Sans;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}

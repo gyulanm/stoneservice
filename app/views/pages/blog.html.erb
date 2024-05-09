@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>shkatulka</title>
+    <link href="https://fonts.cdnfonts.com/css/bickham-script-one" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+</head>
+
+<body>
+    <header class="header">
+        <div class="wrapper">
+            <div class="logo logo__search">
+                <div class="logo__banner banner">
+                    <h1 class="logo_title title title--black ">
+                        <span class="logo_word word">Ш</span>катулка
+                    </h1>
+                    <a class="search__link" href="<%= search_path %>>">
+                        <img class="search__img" src="/assets/blog/Search.svg" alt="">
+                    </a>
+                </div>
+                <div class="divider">
+                    <div class="highlight"></div>
+                </div>
+            </div>
+
+            <div class="services">
+                <nav class="header__nav nav">
+                    <a class="nav__link nav__link--selected" href="<%= blog_path %>">Каталог</a>
+                    <a class="nav__link " href="<%= stones_path %>">Камни</a>
+                    <a class="nav__link " href="<%= jewelrystory_path %>">Украшения</a>
+                </nav>
+            </div>
+        </div>
+    </header>
+    <main>
+        <section class="benefits">
+            <div class="cover">
+                <div class="benefits__banner banner">
+                    <div class="benefits__arrow">
+                        <h1 class="benefits_title title title--white ">
+                            <span class="benefits_word word">И</span>стория браслета<br>Cartier Love
+                        </h1>
+                        <a class="back" href="<%= root_path %>">
+                            <img class="backpr" src="/assets/common/back.svg" alt="">
+                        </a>
+                    </div>
+                    <p class="benefits_text text">Вечная любовь</p>
+                    <img src="/assets/blog/frame.png" alt="">
+                    <div class="benefits__wrapper">
+                        <p class="benefits_description">Браслет-легенда был придуман ночью по­чти полвека назад. Его
+                            автор – дизайнер и завсегдатай Studio 54 <span class="bold">Альдо Чипулло</span> вс­поминал:
+                            «Было три часа ночи. Мне
+                            было по-настоящему грустно. Мне хотелось чего-­то такого, что никто и никогда
+                            не смог бы у меня отнять». Так родился новый «сим­вол вечной любви» – золотой браслет с
+                            от­верткой в комплекте.
+                            По словам Чиполло, cовременному человеку нужны такие символы любви, которые ост­авались бы
+                            почти неи­-зменными: «Ну, или их нельзя было бы про­сто так снять.
+                            В люб­ом случае, они должны <span class="bold">ориентироваться на вечность».</span></p>
+                        <div class="gallery__photo photo1">
+                            <img class="lovebraclet photo1" src="/assets/blog/lovebraclet.jpg" alt="">
+                            <img class="goldraclet " src="/assets/blog/goldbraclet.jpg" alt="">
+                        </div>
+                        <p class="photo__title title1">Cecil Beaton, Courtesy Condé Nast UK</p>
+                    </div>
+                    <div class="story__cover">
+                        <div class="story__banner banner benefits__wrapper">
+                            <p class="benefits_description">
+                                Браслет Love был пр­изван стать новым ви­дом обручального кол­ьца и символизировал
+                                добровольные любовн­ые оковы. Он состоял из двух золотых пол­овинок, которые при помощи
+                                винтов и отвертки соединялись в единое целое и плотно облегали запястье. В одиночку
+                                «оковы» снять практически нев­озможно: для этого нужен был второй (и любимый) человек.
+                            </p>
+                        </div>
+                        <div class="gallery__photo photo2">
+                            <div class="photo__wrapper photo1">
+                                <img class="whiteblack" src="/assets/blog/designer.jpg" alt="">
+                                <p class="photo__title title2">Альдо Чипулло</p>
+                            </div>
+                            <img class="braclets" src="/assets/blog/braclets.jpg" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="story">
+            <div class="story__cover">
+                <div class="story__banner banner">
+                    <h1 class="gallery_title title title--white ">
+                      <span class="gallery_word word">Ч</span>итать еще:
+                    </h1>
+                </div>
+                <div class="divider">
+                    <div class="highlight"></div>
+                </div>
+                <div class="story__flex">
+                    <button class="story__arrow story__arrow--back">
+                        <img src="/assets/blog/back.svg" alt="">
+                    </button>
+                    <div class="story__cards-wrapper">
+                        <a class="story__card story__card--design">
+                            <img src="/assets/blog/audrey.jpg" alt="">
+                            <h2 class="story__card-text">Легендарные украшения<br>Одри Хепберн</h2>
+                        </a>
+                        <a class="story__card story__card--design">
+                            <img src="/assets/blog/film.jpg" alt="">
+                            <h2 class="story__card-text">Колье и серьги с рубинами и<br>бриллиантами из фильма
+                                «Красотка»</h2>
+                        </a>
+                        <a class="story__card story__card--design hidden">
+                            <img src="/assets/blog/tiffany.jpg" alt="">
+                            <h2 class="story__card-text">Во всем блеске! Украшения Tiffany & Co в
+                                фильме<br>«Великий Гэтсби»</h2>
+                        </a>
+                        <a class="story__card story__card--design hidden">
+                            <img src="/assets/blog/woman.jpg" alt="">
+                            <h2 class="story__card-text">Лучшие друзья девушек — бриллианты?</h2>
+                        </a>
+                    </div>
+                    <button class="story__arrow story__arrow--next">
+                        <img src="/assets/blog/next.svg" alt="">
+                    </button>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <div class="container">
+            <img class="footer__detail" src="/assets/common/footer.png" alt="">
+            <div class="subscribe__wrapper">
+                <div class="row">
+                    <div class="follow">
+                        <h1 class="footer__name title--wht">
+                            <span class="footer_word">Ш</span>катулка
+                        </h1>
+                        <p class="footer__text">Шкатулка — самый утонченный медиа-сервис,<br>хранящий истории
+                            легендарных
+                            украшений<br>и драгоценных камней</p>
+                    </div>
+                    <div class="column">
+                        <div class="distribution__wrapper">
+                            <h3 class="distribution__title">Узнайте о запуске первыми!</h3>
+                            <div class="footer__flex">
+                                <div class="follow">
+                                    <form action="" class="follow__form">
+                                        <input class="follow__email" type="email" placeholder="">
+                                        <button class="follow__btn" type="submit">Отправить</button>
+                                    </form>
+                                </div>
+                            </div>
+                            <div class="wrapper__footer">
+                                <div class="wrapper__info">
+                                    <div class="footer__info">
+                                        <h3 class="footer__subtitle">Поддержка</h3>
+                                        <ul class="footer__menu">
+                                            <li><a class="footer__common text--opacity" href="">Сообщить об ошибке</a>
+                                            </li>
+                                            <li><a class="footer__common text--opacity" href="">shkatulka@mail.ru</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <div class="footer__info">
+                                        <h3 class="footer__subtitle">О нас</h3>
+                                        <ul class="footer__menu">
+                                            <li><a class="footer__common text--opacity " href="">Команда</a></li>
+                                            <li><a class="footer__common text--opacity " href="">Правила платформы</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <ul class="footer__detals">
+                                    <li><a class="footer__common common--white ">Пользовательское
+                                            соглашение</a></li>
+                                    <li><a class="footer__common common--white " href="">HSE ADC</a></li>
+                                    <a class="copyright">@2023</a>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>

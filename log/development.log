@@ -1,0 +1,1493 @@
+Started GET "/" for 127.0.0.1 at 2024-05-07 01:51:54 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 6.2ms | Allocations: 927)
+  Rendered layout layouts/application.html.erb (Duration: 2593.3ms | Allocations: 259566)
+Completed 200 OK in 2643ms (Views: 2606.5ms | ActiveRecord: 0.0ms | Allocations: 266480)
+
+
+Started GET "/path/to/bickham-script-one-regular.woff2" for 127.0.0.1 at 2024-05-07 01:51:58 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/path/to/bickham-script-one-regular.woff2"):
+  
+Started GET "/path/to/bickham-script-one-regular.woff" for 127.0.0.1 at 2024-05-07 01:51:58 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/path/to/bickham-script-one-regular.woff"):
+  
+Started GET "/fonts/bickham-script-one.woff" for 127.0.0.1 at 2024-05-07 01:51:58 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+Started GET "/promo" for 127.0.0.1 at 2024-05-07 01:52:14 +0300
+Processing by PagesController#promo as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/promo.html.erb within layouts/application
+  Rendered pages/promo.html.erb within layouts/application (Duration: 4.4ms | Allocations: 421)
+  Rendered layout layouts/application.html.erb (Duration: 22.9ms | Allocations: 5266)
+Completed 200 OK in 27ms (Views: 25.5ms | ActiveRecord: 0.0ms | Allocations: 5588)
+
+
+Started GET "/path/to/bickham-script-one-regular.woff2" for 127.0.0.1 at 2024-05-07 01:52:14 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/path/to/bickham-script-one-regular.woff2"):
+  
+Started GET "/path/to/bickham-script-one-regular.woff" for 127.0.0.1 at 2024-05-07 01:52:15 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/path/to/bickham-script-one-regular.woff"):
+  
+Started GET "/fonts/bickham-script-one.woff" for 127.0.0.1 at 2024-05-07 01:52:15 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+Started GET "/blog" for 127.0.0.1 at 2024-05-07 01:52:17 +0300
+Processing by PagesController#blog as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/blog.html.erb within layouts/application
+  Rendered pages/blog.html.erb within layouts/application (Duration: 3.5ms | Allocations: 427)
+  Rendered layout layouts/application.html.erb (Duration: 17.8ms | Allocations: 5276)
+Completed 200 OK in 20ms (Views: 19.2ms | ActiveRecord: 0.0ms | Allocations: 5596)
+
+
+Started GET "/path/to/bickham-script-one-regular.woff2" for 127.0.0.1 at 2024-05-07 01:52:18 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/path/to/bickham-script-one-regular.woff2"):
+  
+Started GET "/path/to/bickham-script-one-regular.woff" for 127.0.0.1 at 2024-05-07 01:52:18 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/path/to/bickham-script-one-regular.woff"):
+  
+Started GET "/fonts/bickham-script-one.woff" for 127.0.0.1 at 2024-05-07 01:52:18 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+Started GET "/" for 127.0.0.1 at 2024-05-07 01:52:20 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.6ms | Allocations: 93)
+  Rendered layout layouts/application.html.erb (Duration: 13.6ms | Allocations: 4925)
+Completed 200 OK in 16ms (Views: 15.0ms | ActiveRecord: 0.0ms | Allocations: 5187)
+
+
+Started GET "/path/to/bickham-script-one-regular.woff2" for 127.0.0.1 at 2024-05-07 01:52:20 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/path/to/bickham-script-one-regular.woff2"):
+  
+Started GET "/path/to/bickham-script-one-regular.woff" for 127.0.0.1 at 2024-05-07 01:52:20 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/path/to/bickham-script-one-regular.woff"):
+  
+Started GET "/fonts/bickham-script-one.woff" for 127.0.0.1 at 2024-05-07 01:52:21 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+Started GET "/ext/website-traffic-checker" for ::1 at 2024-05-07 15:44:54 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/ext/website-traffic-checker"):
+  
+Started GET "/" for ::1 at 2024-05-07 15:45:03 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 2.9ms | Allocations: 93)
+  Rendered layout layouts/application.html.erb (Duration: 40.4ms | Allocations: 4852)
+Completed 200 OK in 45ms (Views: 42.5ms | ActiveRecord: 0.0ms | Allocations: 5116)
+
+
+Started GET "/path/to/bickham-script-one-regular.woff2" for ::1 at 2024-05-07 15:45:04 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/path/to/bickham-script-one-regular.woff2"):
+  
+Started GET "/path/to/bickham-script-one-regular.woff" for ::1 at 2024-05-07 15:45:05 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/path/to/bickham-script-one-regular.woff"):
+  
+Started GET "/fonts/bickham-script-one.woff" for ::1 at 2024-05-07 15:45:05 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+Started GET "/search" for ::1 at 2024-05-07 15:45:12 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/search.html.erb within layouts/application
+  Rendered pages/search.html.erb within layouts/application (Duration: 2.6ms | Allocations: 424)
+  Rendered layout layouts/application.html.erb (Duration: 23.3ms | Allocations: 5360)
+Completed 200 OK in 26ms (Views: 24.9ms | ActiveRecord: 0.0ms | Allocations: 5679)
+
+
+Started GET "/path/to/bickham-script-one-regular.woff2" for ::1 at 2024-05-07 15:45:12 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/path/to/bickham-script-one-regular.woff2"):
+  
+Started GET "/path/to/bickham-script-one-regular.woff" for ::1 at 2024-05-07 15:45:13 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/path/to/bickham-script-one-regular.woff"):
+  
+Started GET "/fonts/bickham-script-one.woff" for ::1 at 2024-05-07 15:45:13 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+Started GET "/blog" for ::1 at 2024-05-07 15:53:20 +0300
+Processing by PagesController#blog as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/blog.html.erb within layouts/application
+  Rendered pages/blog.html.erb within layouts/application (Duration: 3.0ms | Allocations: 64)
+  Rendered layout layouts/application.html.erb (Duration: 23.6ms | Allocations: 4982)
+Completed 200 OK in 27ms (Views: 25.3ms | ActiveRecord: 0.0ms | Allocations: 5245)
+
+
+Started GET "/path/to/bickham-script-one-regular.woff2" for ::1 at 2024-05-07 15:53:21 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/path/to/bickham-script-one-regular.woff2"):
+  
+Started GET "/path/to/bickham-script-one-regular.woff" for ::1 at 2024-05-07 15:53:21 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/path/to/bickham-script-one-regular.woff"):
+  
+Started GET "/fonts/bickham-script-one.woff" for ::1 at 2024-05-07 15:53:22 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+Started GET "/" for ::1 at 2024-05-07 15:53:54 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.8ms | Allocations: 93)
+  Rendered layout layouts/application.html.erb (Duration: 16.6ms | Allocations: 5001)
+Completed 200 OK in 19ms (Views: 17.9ms | ActiveRecord: 0.0ms | Allocations: 5264)
+
+
+Started GET "/path/to/bickham-script-one-regular.woff2" for ::1 at 2024-05-07 15:53:54 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/path/to/bickham-script-one-regular.woff2"):
+  
+Started GET "/path/to/bickham-script-one-regular.woff" for ::1 at 2024-05-07 15:53:55 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/path/to/bickham-script-one-regular.woff"):
+  
+Started GET "/fonts/bickham-script-one.woff" for ::1 at 2024-05-07 15:53:55 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+Started GET "/path/to/bickham-script-one-regular.woff2" for ::1 at 2024-05-07 15:54:45 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/path/to/bickham-script-one-regular.woff2"):
+  
+Started GET "/path/to/bickham-script-one-regular.woff" for ::1 at 2024-05-07 15:54:45 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/path/to/bickham-script-one-regular.woff"):
+  
+Started GET "/fonts/bickham-script-one.woff" for ::1 at 2024-05-07 15:54:46 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+Started GET "/search" for ::1 at 2024-05-07 15:54:47 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/search.html.erb within layouts/application
+  Rendered pages/search.html.erb within layouts/application (Duration: 0.9ms | Allocations: 96)
+  Rendered layout layouts/application.html.erb (Duration: 30.8ms | Allocations: 4999)
+Completed 200 OK in 34ms (Views: 32.6ms | ActiveRecord: 0.0ms | Allocations: 5262)
+
+
+Started GET "/path/to/bickham-script-one-regular.woff2" for ::1 at 2024-05-07 15:54:48 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/path/to/bickham-script-one-regular.woff2"):
+  
+Started GET "/path/to/bickham-script-one-regular.woff" for ::1 at 2024-05-07 15:54:48 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/path/to/bickham-script-one-regular.woff"):
+  
+Started GET "/fonts/bickham-script-one.woff" for ::1 at 2024-05-07 15:54:49 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+Started GET "/search" for ::1 at 2024-05-07 15:54:51 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/search.html.erb within layouts/application
+  Rendered pages/search.html.erb within layouts/application (Duration: 1.0ms | Allocations: 96)
+  Rendered layout layouts/application.html.erb (Duration: 18.8ms | Allocations: 5008)
+Completed 200 OK in 22ms (Views: 20.8ms | ActiveRecord: 0.0ms | Allocations: 5271)
+
+
+Started GET "/path/to/bickham-script-one-regular.woff2" for ::1 at 2024-05-07 15:54:51 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/path/to/bickham-script-one-regular.woff2"):
+  
+Started GET "/path/to/bickham-script-one-regular.woff" for ::1 at 2024-05-07 15:54:52 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/path/to/bickham-script-one-regular.woff"):
+  
+Started GET "/fonts/bickham-script-one.woff" for ::1 at 2024-05-07 15:54:53 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+Started GET "/search" for ::1 at 2024-05-07 15:56:48 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/search.html.erb within layouts/application
+  Rendered pages/search.html.erb within layouts/application (Duration: 0.8ms | Allocations: 96)
+  Rendered layout layouts/application.html.erb (Duration: 23.9ms | Allocations: 5012)
+Completed 200 OK in 26ms (Views: 25.1ms | ActiveRecord: 0.0ms | Allocations: 5277)
+
+
+Started GET "/path/to/bickham-script-one-regular.woff2" for ::1 at 2024-05-07 15:56:48 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/path/to/bickham-script-one-regular.woff2"):
+  
+Started GET "/path/to/bickham-script-one-regular.woff" for ::1 at 2024-05-07 15:56:49 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/path/to/bickham-script-one-regular.woff"):
+  
+Started GET "/fonts/bickham-script-one.woff" for ::1 at 2024-05-07 15:56:49 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+Started GET "/search" for ::1 at 2024-05-07 15:56:49 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/search.html.erb within layouts/application
+  Rendered pages/search.html.erb within layouts/application (Duration: 1.0ms | Allocations: 96)
+  Rendered layout layouts/application.html.erb (Duration: 174.7ms | Allocations: 19849)
+Completed 200 OK in 178ms (Views: 176.6ms | ActiveRecord: 0.0ms | Allocations: 20112)
+
+
+Started GET "/path/to/bickham-script-one-regular.woff2" for ::1 at 2024-05-07 15:56:50 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/path/to/bickham-script-one-regular.woff2"):
+  
+Started GET "/path/to/bickham-script-one-regular.woff" for ::1 at 2024-05-07 15:56:51 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/path/to/bickham-script-one-regular.woff"):
+  
+Started GET "/fonts/bickham-script-one.woff" for ::1 at 2024-05-07 15:56:51 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+Started GET "/search" for ::1 at 2024-05-07 15:57:34 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/search.html.erb within layouts/application
+  Rendered pages/search.html.erb within layouts/application (Duration: 1.0ms | Allocations: 96)
+  Rendered layout layouts/application.html.erb (Duration: 30.7ms | Allocations: 5011)
+Completed 200 OK in 34ms (Views: 32.3ms | ActiveRecord: 0.0ms | Allocations: 5274)
+
+
+Started GET "/search" for ::1 at 2024-05-07 15:57:35 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/search.html.erb within layouts/application
+  Rendered pages/search.html.erb within layouts/application (Duration: 0.9ms | Allocations: 96)
+  Rendered layout layouts/application.html.erb (Duration: 29.5ms | Allocations: 4904)
+Completed 200 OK in 32ms (Views: 31.3ms | ActiveRecord: 0.0ms | Allocations: 5166)
+
+
+Started GET "/search" for ::1 at 2024-05-07 15:58:27 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/search.html.erb within layouts/application
+  Rendered pages/search.html.erb within layouts/application (Duration: 0.7ms | Allocations: 96)
+  Rendered layout layouts/application.html.erb (Duration: 14.8ms | Allocations: 4919)
+Completed 200 OK in 17ms (Views: 16.0ms | ActiveRecord: 0.0ms | Allocations: 5181)
+
+
+Started GET "/search" for ::1 at 2024-05-07 15:58:28 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/search.html.erb within layouts/application
+  Rendered pages/search.html.erb within layouts/application (Duration: 0.9ms | Allocations: 96)
+  Rendered layout layouts/application.html.erb (Duration: 16.2ms | Allocations: 4931)
+Completed 200 OK in 18ms (Views: 17.7ms | ActiveRecord: 0.0ms | Allocations: 5193)
+
+
+Started GET "/search" for ::1 at 2024-05-07 15:58:29 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/search.html.erb within layouts/application
+  Rendered pages/search.html.erb within layouts/application (Duration: 0.7ms | Allocations: 96)
+  Rendered layout layouts/application.html.erb (Duration: 23.3ms | Allocations: 4913)
+Completed 200 OK in 26ms (Views: 25.0ms | ActiveRecord: 0.0ms | Allocations: 5175)
+
+
+Started GET "/search" for ::1 at 2024-05-07 16:00:22 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/search.html.erb within layouts/application
+  Rendered pages/search.html.erb within layouts/application (Duration: 4.8ms | Allocations: 710)
+  Rendered layout layouts/application.html.erb (Duration: 408.3ms | Allocations: 65701)
+Completed 200 OK in 437ms (Views: 415.5ms | ActiveRecord: 0.0ms | Allocations: 69627)
+
+
+Started GET "/search" for ::1 at 2024-05-07 16:00:23 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/search.html.erb within layouts/application
+  Rendered pages/search.html.erb within layouts/application (Duration: 0.7ms | Allocations: 96)
+  Rendered layout layouts/application.html.erb (Duration: 17.4ms | Allocations: 5064)
+Completed 200 OK in 20ms (Views: 19.2ms | ActiveRecord: 0.0ms | Allocations: 5332)
+
+
+Started GET "/path/to/bickham-script-one-regular.woff2" for ::1 at 2024-05-07 16:00:24 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/path/to/bickham-script-one-regular.woff2"):
+  
+Started GET "/path/to/bickham-script-one-regular.woff" for ::1 at 2024-05-07 16:00:25 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/path/to/bickham-script-one-regular.woff"):
+  
+Started GET "/fonts/bickham-script-one.woff" for ::1 at 2024-05-07 16:00:25 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+Started GET "/search" for ::1 at 2024-05-07 16:00:26 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/search.html.erb within layouts/application
+  Rendered pages/search.html.erb within layouts/application (Duration: 1.2ms | Allocations: 96)
+  Rendered layout layouts/application.html.erb (Duration: 22.4ms | Allocations: 5051)
+Completed 200 OK in 33ms (Views: 26.6ms | ActiveRecord: 0.0ms | Allocations: 5315)
+
+
+Started GET "/search" for ::1 at 2024-05-07 16:01:27 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/search.html.erb within layouts/application
+  Rendered pages/search.html.erb within layouts/application (Duration: 2.8ms | Allocations: 302)
+  Rendered layout layouts/application.html.erb (Duration: 26.0ms | Allocations: 5373)
+Completed 200 OK in 36ms (Views: 33.5ms | ActiveRecord: 0.0ms | Allocations: 6188)
+
+
+Started GET "/search" for ::1 at 2024-05-07 16:01:30 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/search.html.erb within layouts/application
+  Rendered pages/search.html.erb within layouts/application (Duration: 7.5ms | Allocations: 56)
+  Rendered layout layouts/application.html.erb (Duration: 46.9ms | Allocations: 4883)
+Completed 200 OK in 50ms (Views: 48.7ms | ActiveRecord: 0.0ms | Allocations: 5148)
+
+
+Started GET "/search.js" for ::1 at 2024-05-07 16:01:31 +0300
+Processing by PagesController#search as JS
+  Rendering pages/search.html.erb
+  Rendered pages/search.html.erb (Duration: 0.6ms | Allocations: 56)
+Completed 200 OK in 14ms (Views: 13.1ms | ActiveRecord: 0.0ms | Allocations: 575)
+
+
+Started GET "/path/to/bickham-script-one-regular.woff2" for ::1 at 2024-05-07 16:01:31 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/path/to/bickham-script-one-regular.woff2"):
+  
+Started GET "/path/to/bickham-script-one-regular.woff" for ::1 at 2024-05-07 16:01:32 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/path/to/bickham-script-one-regular.woff"):
+  
+Started GET "/fonts/bickham-script-one.woff" for ::1 at 2024-05-07 16:01:32 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+Started GET "/search" for ::1 at 2024-05-07 16:02:51 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/search.html.erb within layouts/application
+  Rendered pages/search.html.erb within layouts/application (Duration: 2.0ms | Allocations: 297)
+  Rendered layout layouts/application.html.erb (Duration: 18.6ms | Allocations: 5524)
+Completed 200 OK in 26ms (Views: 24.4ms | ActiveRecord: 0.0ms | Allocations: 6338)
+
+
+Started GET "/search" for ::1 at 2024-05-07 16:02:53 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/search.html.erb within layouts/application
+  Rendered pages/search.html.erb within layouts/application (Duration: 0.5ms | Allocations: 56)
+  Rendered layout layouts/application.html.erb (Duration: 16.4ms | Allocations: 4879)
+Completed 200 OK in 18ms (Views: 17.5ms | ActiveRecord: 0.0ms | Allocations: 5142)
+
+
+Started GET "/stylesheet/search.css" for ::1 at 2024-05-07 16:02:53 +0300
+Started GET "/stylesheet/common.css" for ::1 at 2024-05-07 16:02:53 +0300
+Started GET "/stylesheet/header.css" for ::1 at 2024-05-07 16:02:53 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/stylesheet/search.css"):
+  
+Started GET "/stylesheet/zircon.css" for ::1 at 2024-05-07 16:02:54 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/stylesheet/common.css"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/stylesheet/header.css"):
+  
+Started GET "/stylesheet/jewelry.css" for ::1 at 2024-05-07 16:02:54 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/stylesheet/zircon.css"):
+  
+Started GET "/stylesheet/jewelrystory.css" for ::1 at 2024-05-07 16:02:54 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/stylesheet/jewelry.css"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/stylesheet/jewelrystory.css"):
+  
+Started GET "/stylesheet/comment.css" for ::1 at 2024-05-07 16:02:55 +0300
+Started GET "/stylesheet/footer.css" for ::1 at 2024-05-07 16:02:55 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/stylesheet/comment.css"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/stylesheet/footer.css"):
+  
+Started GET "/stylesheet/stones.css" for ::1 at 2024-05-07 16:02:55 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/stylesheet/stones.css"):
+  
+Started GET "/search.js" for ::1 at 2024-05-07 16:02:55 +0300
+Processing by PagesController#search as JS
+  Rendering pages/search.html.erb
+  Rendered pages/search.html.erb (Duration: 0.8ms | Allocations: 62)
+Completed 200 OK in 15ms (Views: 11.3ms | ActiveRecord: 0.0ms | Allocations: 1398)
+
+
+Started GET "/path/to/bickham-script-one-regular.woff2" for ::1 at 2024-05-07 16:02:56 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/path/to/bickham-script-one-regular.woff2"):
+  
+Started GET "/path/to/bickham-script-one-regular.woff" for ::1 at 2024-05-07 16:02:56 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/path/to/bickham-script-one-regular.woff"):
+  
+Started GET "/fonts/bickham-script-one.woff" for ::1 at 2024-05-07 16:02:56 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+Started GET "/stylesheet/search.css" for ::1 at 2024-05-07 16:03:05 +0300
+Started GET "/stylesheet/common.css" for ::1 at 2024-05-07 16:03:05 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/stylesheet/search.css"):
+  
+Started GET "/stylesheet/jewelrystory.css" for ::1 at 2024-05-07 16:03:05 +0300
+Started GET "/stylesheet/header.css" for ::1 at 2024-05-07 16:03:05 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/stylesheet/common.css"):
+  
+Started GET "/stylesheet/zircon.css" for ::1 at 2024-05-07 16:03:05 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/stylesheet/header.css"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/stylesheet/jewelrystory.css"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/stylesheet/zircon.css"):
+  
+Started GET "/stylesheet/jewelry.css" for ::1 at 2024-05-07 16:03:06 +0300
+Started GET "/stylesheet/comment.css" for ::1 at 2024-05-07 16:03:06 +0300
+Started GET "/stylesheet/footer.css" for ::1 at 2024-05-07 16:03:06 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/stylesheet/jewelry.css"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/stylesheet/comment.css"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/stylesheet/footer.css"):
+  
+Started GET "/stylesheet/stones.css" for ::1 at 2024-05-07 16:03:07 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/stylesheet/stones.css"):
+  
+Started GET "/search" for ::1 at 2024-05-07 16:05:24 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/search.html.erb within layouts/application
+  Rendered pages/search.html.erb within layouts/application (Duration: 2.5ms | Allocations: 297)
+  Rendered layout layouts/application.html.erb (Duration: 148.6ms | Allocations: 24339)
+Completed 200 OK in 156ms (Views: 154.0ms | ActiveRecord: 0.0ms | Allocations: 25154)
+
+
+Started GET "/search.js" for ::1 at 2024-05-07 16:05:24 +0300
+Processing by PagesController#search as JS
+  Rendering pages/search.html.erb
+  Rendered pages/search.html.erb (Duration: 0.6ms | Allocations: 56)
+Completed 200 OK in 4ms (Views: 3.2ms | ActiveRecord: 0.0ms | Allocations: 575)
+
+
+Started GET "/path/to/bickham-script-one-regular.woff2" for ::1 at 2024-05-07 16:05:25 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/path/to/bickham-script-one-regular.woff2"):
+  
+Started GET "/path/to/bickham-script-one-regular.woff" for ::1 at 2024-05-07 16:05:25 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/path/to/bickham-script-one-regular.woff"):
+  
+Started GET "/fonts/bickham-script-one.woff" for ::1 at 2024-05-07 16:05:25 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+Started GET "/search" for ::1 at 2024-05-07 16:05:44 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/search.html.erb within layouts/application
+  Rendered pages/search.html.erb within layouts/application (Duration: 0.5ms | Allocations: 56)
+  Rendered layout layouts/application.html.erb (Duration: 94.4ms | Allocations: 21679)
+Completed 200 OK in 97ms (Views: 96.2ms | ActiveRecord: 0.0ms | Allocations: 21942)
+
+
+Started GET "/search.js" for ::1 at 2024-05-07 16:05:45 +0300
+Started GET "/path/to/bickham-script-one-regular.woff2" for ::1 at 2024-05-07 16:05:45 +0300
+Processing by PagesController#search as JS
+  Rendering pages/search.html.erb
+  Rendered pages/search.html.erb (Duration: 0.7ms | Allocations: 56)
+  
+ActionController::RoutingError (No route matches [GET] "/path/to/bickham-script-one-regular.woff2"):
+  
+Completed 200 OK in 20ms (Views: 18.9ms | ActiveRecord: 0.0ms | Allocations: 959)
+
+
+Started GET "/path/to/bickham-script-one-regular.woff" for ::1 at 2024-05-07 16:05:45 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/path/to/bickham-script-one-regular.woff"):
+  
+Started GET "/fonts/bickham-script-one.woff" for ::1 at 2024-05-07 16:05:45 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+Started GET "/search" for ::1 at 2024-05-07 16:08:21 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/search.html.erb within layouts/application
+  Rendered pages/search.html.erb within layouts/application (Duration: 0.5ms | Allocations: 56)
+  Rendered layout layouts/application.html.erb (Duration: 267.0ms | Allocations: 11906)
+Completed 200 OK in 270ms (Views: 268.7ms | ActiveRecord: 0.0ms | Allocations: 12170)
+
+
+Started GET "/search.js" for ::1 at 2024-05-07 16:08:22 +0300
+Processing by PagesController#search as JS
+  Rendering pages/search.html.erb
+  Rendered pages/search.html.erb (Duration: 0.4ms | Allocations: 56)
+Completed 200 OK in 3ms (Views: 1.8ms | ActiveRecord: 0.0ms | Allocations: 356)
+
+
+Started GET "/path/to/bickham-script-one-regular.woff2" for ::1 at 2024-05-07 16:08:22 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/path/to/bickham-script-one-regular.woff2"):
+  
+Started GET "/path/to/bickham-script-one-regular.woff" for ::1 at 2024-05-07 16:08:23 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/path/to/bickham-script-one-regular.woff"):
+  
+Started GET "/fonts/bickham-script-one.woff" for ::1 at 2024-05-07 16:08:23 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+Started GET "/search" for ::1 at 2024-05-07 16:11:16 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/search.html.erb within layouts/application
+  Rendered pages/search.html.erb within layouts/application (Duration: 0.4ms | Allocations: 56)
+  Rendered layout layouts/application.html.erb (Duration: 73.1ms | Allocations: 17567)
+Completed 200 OK in 77ms (Views: 75.1ms | ActiveRecord: 0.0ms | Allocations: 17830)
+
+
+Started GET "/search.js" for ::1 at 2024-05-07 16:11:16 +0300
+Processing by PagesController#search as JS
+  Rendering pages/search.html.erb
+  Rendered pages/search.html.erb (Duration: 0.5ms | Allocations: 56)
+Completed 200 OK in 4ms (Views: 3.1ms | ActiveRecord: 0.0ms | Allocations: 356)
+
+
+Started GET "/fonts/bickham-script-one.woff" for ::1 at 2024-05-07 16:11:16 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+Started GET "/search" for ::1 at 2024-05-07 16:12:56 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/search.html.erb within layouts/application
+  Rendered pages/search.html.erb within layouts/application (Duration: 1.0ms | Allocations: 56)
+  Rendered layout layouts/application.html.erb (Duration: 175.7ms | Allocations: 12656)
+Completed 200 OK in 179ms (Views: 177.6ms | ActiveRecord: 0.0ms | Allocations: 12922)
+
+
+Started GET "/search.js" for ::1 at 2024-05-07 16:12:56 +0300
+Processing by PagesController#search as JS
+  Rendering pages/search.html.erb
+  Rendered pages/search.html.erb (Duration: 0.8ms | Allocations: 56)
+Completed 200 OK in 9ms (Views: 4.3ms | ActiveRecord: 0.0ms | Allocations: 665)
+
+
+Started GET "/fonts/bickham-script-one.woff" for ::1 at 2024-05-07 16:12:56 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+Started GET "/search" for ::1 at 2024-05-07 16:13:07 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/search.html.erb within layouts/application
+  Rendered pages/search.html.erb within layouts/application (Duration: 2.9ms | Allocations: 297)
+  Rendered layout layouts/application.html.erb (Duration: 25.4ms | Allocations: 5537)
+Completed 200 OK in 36ms (Views: 31.6ms | ActiveRecord: 0.0ms | Allocations: 6354)
+
+
+Started GET "/fonts/bickham-script-one.woff" for ::1 at 2024-05-07 16:13:07 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+Started GET "/search" for ::1 at 2024-05-07 16:13:10 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/search.html.erb within layouts/application
+  Rendered pages/search.html.erb within layouts/application (Duration: 0.6ms | Allocations: 56)
+  Rendered layout layouts/application.html.erb (Duration: 40.6ms | Allocations: 5032)
+Completed 200 OK in 44ms (Views: 42.5ms | ActiveRecord: 0.0ms | Allocations: 5299)
+
+
+Started GET "/fonts/bickham-script-one.woff" for ::1 at 2024-05-07 16:13:10 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+Started GET "/search" for ::1 at 2024-05-07 16:14:51 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/search.html.erb within layouts/application
+  Rendered pages/search.html.erb within layouts/application (Duration: 0.5ms | Allocations: 56)
+  Rendered layout layouts/application.html.erb (Duration: 16.3ms | Allocations: 5041)
+Completed 200 OK in 19ms (Views: 17.8ms | ActiveRecord: 0.0ms | Allocations: 5307)
+
+
+Started GET "/fonts/bickham-script-one.woff" for ::1 at 2024-05-07 16:14:52 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+Started GET "/search" for ::1 at 2024-05-07 16:17:01 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/search.html.erb within layouts/application
+  Rendered pages/search.html.erb within layouts/application (Duration: 1.7ms | Allocations: 213)
+  Rendered layout layouts/application.html.erb (Duration: 18.3ms | Allocations: 5468)
+Completed 200 OK in 25ms (Views: 23.0ms | ActiveRecord: 0.0ms | Allocations: 6285)
+
+
+Started GET "/img/header/logo.svg" for ::1 at 2024-05-07 16:17:02 +0300
+Started GET "/img/header/profile.svg" for ::1 at 2024-05-07 16:17:02 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/img/header/profile.svg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/header/logo.svg"):
+  
+Started GET "/img/header/Search.svg" for ::1 at 2024-05-07 16:17:02 +0300
+Started GET "/img/search/SearchForInput.svg" for ::1 at 2024-05-07 16:17:02 +0300
+Started GET "/img/search/zircon.jpg" for ::1 at 2024-05-07 16:17:02 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/img/header/Search.svg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/search/SearchForInput.svg"):
+  
+Started GET "/fonts/bickham-script-one.woff" for ::1 at 2024-05-07 16:17:03 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/img/search/zircon.jpg"):
+  
+Started GET "/img/common/footer.png" for ::1 at 2024-05-07 16:17:03 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/common/footer.png"):
+  
+Started GET "/search" for ::1 at 2024-05-07 16:17:05 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/search.html.erb within layouts/application
+  Rendered pages/search.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 17.2ms | Allocations: 4990)
+Completed 200 OK in 20ms (Views: 19.0ms | ActiveRecord: 0.0ms | Allocations: 5257)
+
+
+Started GET "/img/header/logo.svg" for ::1 at 2024-05-07 16:17:05 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/img/header/logo.svg"):
+  
+Started GET "/img/header/profile.svg" for ::1 at 2024-05-07 16:17:05 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/img/header/profile.svg"):
+  
+Started GET "/img/header/Search.svg" for ::1 at 2024-05-07 16:17:06 +0300
+Started GET "/img/search/SearchForInput.svg" for ::1 at 2024-05-07 16:17:06 +0300
+Started GET "/img/common/footer.png" for ::1 at 2024-05-07 16:17:06 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/img/header/Search.svg"):
+  
+Started GET "/fonts/bickham-script-one.woff" for ::1 at 2024-05-07 16:17:06 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/search/SearchForInput.svg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/common/footer.png"):
+  
+Started GET "/img/search/zircon.jpg" for ::1 at 2024-05-07 16:17:06 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/img/search/zircon.jpg"):
+  
+Started GET "/search" for ::1 at 2024-05-07 16:21:25 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/search.html.erb within layouts/application
+  Rendered pages/search.html.erb within layouts/application (Duration: 2.3ms | Allocations: 296)
+  Rendered layout layouts/application.html.erb (Duration: 20.9ms | Allocations: 5536)
+Completed 200 OK in 28ms (Views: 25.4ms | ActiveRecord: 0.0ms | Allocations: 6353)
+
+
+Started GET "/fonts/bickham-script-one.woff" for ::1 at 2024-05-07 16:21:26 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+Started GET "/search" for ::1 at 2024-05-07 16:21:50 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/search.html.erb within layouts/application
+  Rendered pages/search.html.erb within layouts/application (Duration: 2.3ms | Allocations: 359)
+  Rendered layout layouts/application.html.erb (Duration: 21.0ms | Allocations: 5610)
+Completed 200 OK in 29ms (Views: 27.0ms | ActiveRecord: 0.0ms | Allocations: 6430)
+
+
+  
+ActionController::RoutingError (No route matches [GET] "/assets/images/header/logo.svg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/images/header/profile.svg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/images/header/Search.svg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/images/search/SearchForInput.svg"):
+  
+Started GET "/fonts/bickham-script-one.woff" for ::1 at 2024-05-07 16:21:52 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/assets/images/search/zircon.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/images/common/footer.png"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/images/header/profile.svg"):
+  
+Started GET "/search" for ::1 at 2024-05-07 16:26:19 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/search.html.erb within layouts/application
+  Rendered pages/search.html.erb within layouts/application (Duration: 2.2ms | Allocations: 356)
+  Rendered layout layouts/application.html.erb (Duration: 19.4ms | Allocations: 5610)
+Completed 200 OK in 26ms (Views: 23.7ms | ActiveRecord: 0.0ms | Allocations: 6428)
+
+
+Started GET "/fonts/bickham-script-one.woff" for ::1 at 2024-05-07 16:26:20 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+Started GET "/search" for ::1 at 2024-05-07 16:34:37 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/search.html.erb within layouts/application
+  Rendered pages/search.html.erb within layouts/application (Duration: 0.9ms | Allocations: 66)
+  Rendered layout layouts/application.html.erb (Duration: 20.3ms | Allocations: 5057)
+Completed 200 OK in 25ms (Views: 23.9ms | ActiveRecord: 0.0ms | Allocations: 5324)
+
+
+Started GET "/fonts/bickham-script-one.woff" for ::1 at 2024-05-07 16:34:38 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/fonts/bickham-script-one.woff"):
+  
+Started GET "/fonts/bickham-script-one.woff" for ::1 at 2024-05-07 16:35:03 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/fonts/bickham-script-one.woff"):
+  
+Started GET "/search" for ::1 at 2024-05-07 16:35:42 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/search.html.erb within layouts/application
+  Rendered pages/search.html.erb within layouts/application (Duration: 0.6ms | Allocations: 66)
+  Rendered layout layouts/application.html.erb (Duration: 152.3ms | Allocations: 18367)
+Completed 200 OK in 157ms (Views: 155.5ms | ActiveRecord: 0.0ms | Allocations: 18634)
+
+
+Started GET "/fonts/bickham-script-one.woff" for ::1 at 2024-05-07 16:35:43 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+Started GET "/bickham-script-one.woff" for ::1 at 2024-05-07 16:35:43 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/bickham-script-one.woff"):
+  
+Started GET "/search" for ::1 at 2024-05-07 16:36:18 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/search.html.erb within layouts/application
+  Rendered pages/search.html.erb within layouts/application (Duration: 1.8ms | Allocations: 66)
+  Rendered layout layouts/application.html.erb (Duration: 102.0ms | Allocations: 19540)
+Completed 200 OK in 106ms (Views: 105.2ms | ActiveRecord: 0.0ms | Allocations: 19806)
+
+
+Started GET "/bickham-script-one.woff" for ::1 at 2024-05-07 16:36:19 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/bickham-script-one.woff"):
+  
+Started GET "/search" for ::1 at 2024-05-07 16:36:21 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/search.html.erb within layouts/application
+  Rendered pages/search.html.erb within layouts/application (Duration: 0.7ms | Allocations: 66)
+  Rendered layout layouts/application.html.erb (Duration: 19.4ms | Allocations: 5048)
+Completed 200 OK in 22ms (Views: 20.8ms | ActiveRecord: 0.0ms | Allocations: 5314)
+
+
+Started GET "/bickham-script-one.woff" for ::1 at 2024-05-07 16:36:22 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/bickham-script-one.woff"):
+  
+Started GET "/search" for ::1 at 2024-05-07 16:36:56 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/search.html.erb within layouts/application
+  Rendered pages/search.html.erb within layouts/application (Duration: 0.4ms | Allocations: 66)
+  Rendered layout layouts/application.html.erb (Duration: 71.6ms | Allocations: 17719)
+Completed 200 OK in 73ms (Views: 72.8ms | ActiveRecord: 0.0ms | Allocations: 17985)
+
+
+Started GET "/bickham-script-one.woff" for ::1 at 2024-05-07 16:36:56 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/bickham-script-one.woff"):
+  
+Started GET "/search" for ::1 at 2024-05-07 16:37:33 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/search.html.erb within layouts/application
+  Rendered pages/search.html.erb within layouts/application (Duration: 0.4ms | Allocations: 66)
+  Rendered layout layouts/application.html.erb (Duration: 74.6ms | Allocations: 18154)
+Completed 200 OK in 77ms (Views: 76.1ms | ActiveRecord: 0.0ms | Allocations: 18420)
+
+
+Started GET "/search" for ::1 at 2024-05-07 16:40:18 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/search.html.erb within layouts/application
+  Rendered pages/search.html.erb within layouts/application (Duration: 3.3ms | Allocations: 354)
+  Rendered layout layouts/application.html.erb (Duration: 45.3ms | Allocations: 5496)
+Completed 200 OK in 56ms (Views: 53.8ms | ActiveRecord: 0.0ms | Allocations: 6312)
+
+
+Started GET "/search" for ::1 at 2024-05-07 16:40:30 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/search.html.erb within layouts/application
+  Rendered pages/search.html.erb within layouts/application (Duration: 0.5ms | Allocations: 66)
+  Rendered layout layouts/application.html.erb (Duration: 17.3ms | Allocations: 5048)
+Completed 200 OK in 19ms (Views: 18.6ms | ActiveRecord: 0.0ms | Allocations: 5317)
+
+
+Started GET "/search" for ::1 at 2024-05-07 16:40:53 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/search.html.erb within layouts/application
+  Rendered pages/search.html.erb within layouts/application (Duration: 2.4ms | Allocations: 358)
+  Rendered layout layouts/application.html.erb (Duration: 24.9ms | Allocations: 5501)
+Completed 200 OK in 32ms (Views: 30.5ms | ActiveRecord: 0.0ms | Allocations: 6323)
+
+
+Started GET "/search" for ::1 at 2024-05-07 16:41:27 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/search.html.erb within layouts/application
+  Rendered pages/search.html.erb within layouts/application (Duration: 2.5ms | Allocations: 354)
+  Rendered layout layouts/application.html.erb (Duration: 19.7ms | Allocations: 5502)
+Completed 200 OK in 28ms (Views: 25.5ms | ActiveRecord: 0.0ms | Allocations: 6320)
+
+
+  
+ActionController::RoutingError (No route matches [GET] "/assets/fonts/bickham-script-one.woff"):
+  
+Started GET "/search" for ::1 at 2024-05-07 16:42:39 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/search.html.erb within layouts/application
+  Rendered pages/search.html.erb within layouts/application (Duration: 3.5ms | Allocations: 353)
+  Rendered layout layouts/application.html.erb (Duration: 36.8ms | Allocations: 5593)
+Completed 200 OK in 45ms (Views: 42.2ms | ActiveRecord: 0.0ms | Allocations: 6369)
+
+
+Started GET "/search" for ::1 at 2024-05-07 16:42:51 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/search.html.erb within layouts/application
+  Rendered pages/search.html.erb within layouts/application (Duration: 1.6ms | Allocations: 66)
+  Rendered layout layouts/application.html.erb (Duration: 22.6ms | Allocations: 4993)
+Completed 200 OK in 25ms (Views: 24.3ms | ActiveRecord: 0.0ms | Allocations: 5262)
+
+
+Started GET "/search" for ::1 at 2024-05-07 17:04:31 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/search.html.erb within layouts/application
+  Rendered pages/search.html.erb within layouts/application (Duration: 2.0ms | Allocations: 66)
+  Rendered layout layouts/application.html.erb (Duration: 32.8ms | Allocations: 4955)
+Completed 200 OK in 41ms (Views: 38.9ms | ActiveRecord: 0.0ms | Allocations: 5222)
+
+
+Started GET "/search" for ::1 at 2024-05-07 17:10:47 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/newApplication.html.erb
+  Rendering pages/search.html.erb within layouts/newApplication
+  Rendered pages/search.html.erb within layouts/newApplication (Duration: 2.8ms | Allocations: 365)
+  Rendered layout layouts/newApplication.html.erb (Duration: 19.2ms | Allocations: 5619)
+Completed 200 OK in 27ms (Views: 25.5ms | ActiveRecord: 0.0ms | Allocations: 6412)
+
+
+Started GET "/search" for ::1 at 2024-05-07 17:10:55 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/newApplication.html.erb
+  Rendering pages/search.html.erb within layouts/newApplication
+  Rendered pages/search.html.erb within layouts/newApplication (Duration: 9.2ms | Allocations: 353)
+  Rendered layout layouts/newApplication.html.erb (Duration: 13.1ms | Allocations: 530)
+Completed 200 OK in 24ms (Views: 22.1ms | ActiveRecord: 0.0ms | Allocations: 1240)
+
+
+Started GET "/search" for ::1 at 2024-05-07 17:11:35 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/newApplication.html.erb
+  Rendering pages/search.html.erb within layouts/newApplication
+  Rendered pages/search.html.erb within layouts/newApplication (Duration: 2.5ms | Allocations: 353)
+  Rendered layout layouts/newApplication.html.erb (Duration: 705.4ms | Allocations: 109158)
+Completed 200 OK in 713ms (Views: 712.4ms | ActiveRecord: 0.0ms | Allocations: 109868)
+
+
+Started GET "/search" for ::1 at 2024-05-07 17:12:47 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/newApplication.html.erb
+  Rendering pages/search.html.erb within layouts/newApplication
+  Rendered pages/search.html.erb within layouts/newApplication (Duration: 2.2ms | Allocations: 358)
+  Rendered layout layouts/newApplication.html.erb (Duration: 30.4ms | Allocations: 9474)
+Completed 200 OK in 37ms (Views: 36.1ms | ActiveRecord: 0.0ms | Allocations: 10189)
+
+
+Started GET "/search" for ::1 at 2024-05-07 17:14:21 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/newApplication.html.erb
+  Rendering pages/search.html.erb within layouts/newApplication
+  Rendered pages/search.html.erb within layouts/newApplication (Duration: 4.1ms | Allocations: 353)
+  Rendered layout layouts/newApplication.html.erb (Duration: 60.7ms | Allocations: 9333)
+Completed 200 OK in 73ms (Views: 72.0ms | ActiveRecord: 0.0ms | Allocations: 10044)
+
+
+Started GET "/search" for ::1 at 2024-05-07 17:15:37 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/newApplication.html.erb
+  Rendering pages/search.html.erb within layouts/newApplication
+  Rendered pages/search.html.erb within layouts/newApplication (Duration: 3.7ms | Allocations: 361)
+  Rendered layout layouts/newApplication.html.erb (Duration: 32.5ms | Allocations: 9405)
+Completed 200 OK in 40ms (Views: 38.9ms | ActiveRecord: 0.0ms | Allocations: 10120)
+
+
+Started GET "/search" for ::1 at 2024-05-07 17:17:33 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/newApplication.html.erb
+  Rendering pages/search.html.erb within layouts/newApplication
+  Rendered pages/search.html.erb within layouts/newApplication (Duration: 1.2ms | Allocations: 66)
+  Rendered layout layouts/newApplication.html.erb (Duration: 39.6ms | Allocations: 8933)
+Completed 200 OK in 42ms (Views: 41.1ms | ActiveRecord: 0.0ms | Allocations: 9162)
+
+
+Started GET "/search" for ::1 at 2024-05-07 17:17:37 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/newApplication.html.erb
+  Rendering pages/search.html.erb within layouts/newApplication
+  Rendered pages/search.html.erb within layouts/newApplication (Duration: 0.5ms | Allocations: 66)
+  Rendered layout layouts/newApplication.html.erb (Duration: 46.1ms | Allocations: 8776)
+Completed 200 OK in 49ms (Views: 47.7ms | ActiveRecord: 0.0ms | Allocations: 9004)
+
+
+Started GET "/search" for ::1 at 2024-05-07 17:25:54 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/newApplication.html.erb
+  Rendering pages/search.html.erb within layouts/newApplication
+  Rendered pages/search.html.erb within layouts/newApplication (Duration: 2.0ms | Allocations: 359)
+  Rendered layout layouts/newApplication.html.erb (Duration: 484.2ms | Allocations: 111823)
+Completed 200 OK in 490ms (Views: 488.8ms | ActiveRecord: 0.0ms | Allocations: 112540)
+
+
+Started GET "/search" for ::1 at 2024-05-07 17:26:34 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/newApplication.html.erb
+  Rendering pages/search.html.erb within layouts/newApplication
+  Rendered pages/search.html.erb within layouts/newApplication (Duration: 0.5ms | Allocations: 66)
+  Rendered layout layouts/newApplication.html.erb (Duration: 41.5ms | Allocations: 8832)
+Completed 200 OK in 43ms (Views: 42.8ms | ActiveRecord: 0.0ms | Allocations: 9063)
+
+
+Started GET "/search" for ::1 at 2024-05-07 17:27:39 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/newApplication.html.erb
+  Rendering pages/search.html.erb within layouts/newApplication
+  Rendered pages/search.html.erb within layouts/newApplication (Duration: 0.5ms | Allocations: 66)
+  Rendered layout layouts/newApplication.html.erb (Duration: 28.6ms | Allocations: 8705)
+Completed 200 OK in 31ms (Views: 30.1ms | ActiveRecord: 0.0ms | Allocations: 8935)
+
+
+Started GET "/search" for ::1 at 2024-05-07 17:28:49 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/newApplication.html.erb
+  Rendering pages/search.html.erb within layouts/newApplication
+  Rendered pages/search.html.erb within layouts/newApplication (Duration: 0.5ms | Allocations: 66)
+  Rendered layout layouts/newApplication.html.erb (Duration: 41.4ms | Allocations: 10090)
+Completed 200 OK in 43ms (Views: 42.7ms | ActiveRecord: 0.0ms | Allocations: 10320)
+
+
+Started GET "/search" for ::1 at 2024-05-07 17:29:02 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/newApplication.html.erb
+  Rendering pages/search.html.erb within layouts/newApplication
+  Rendered pages/search.html.erb within layouts/newApplication (Duration: 0.6ms | Allocations: 66)
+  Rendered layout layouts/newApplication.html.erb (Duration: 33.0ms | Allocations: 9955)
+Completed 200 OK in 35ms (Views: 34.1ms | ActiveRecord: 0.0ms | Allocations: 10184)
+
+
+Started GET "/search" for ::1 at 2024-05-07 17:29:15 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/newApplication.html.erb
+  Rendering pages/search.html.erb within layouts/newApplication
+  Rendered pages/search.html.erb within layouts/newApplication (Duration: 0.5ms | Allocations: 66)
+  Rendered layout layouts/newApplication.html.erb (Duration: 32.3ms | Allocations: 8831)
+Completed 200 OK in 34ms (Views: 33.6ms | ActiveRecord: 0.0ms | Allocations: 9062)
+
+
+Started GET "/search" for ::1 at 2024-05-07 17:29:18 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/newApplication.html.erb
+  Rendering pages/search.html.erb within layouts/newApplication
+  Rendered pages/search.html.erb within layouts/newApplication (Duration: 0.5ms | Allocations: 66)
+  Rendered layout layouts/newApplication.html.erb (Duration: 35.8ms | Allocations: 8759)
+Completed 200 OK in 39ms (Views: 38.5ms | ActiveRecord: 0.0ms | Allocations: 8989)
+
+
+Started GET "/search" for ::1 at 2024-05-07 17:29:29 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/newApplication.html.erb
+  Rendering pages/search.html.erb within layouts/newApplication
+  Rendered pages/search.html.erb within layouts/newApplication (Duration: 0.7ms | Allocations: 66)
+  Rendered layout layouts/newApplication.html.erb (Duration: 75.0ms | Allocations: 9950)
+Completed 200 OK in 78ms (Views: 76.9ms | ActiveRecord: 0.0ms | Allocations: 10179)
+
+
+Started GET "/search" for ::1 at 2024-05-07 17:30:13 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/newApplication.html.erb
+  Rendering pages/search.html.erb within layouts/newApplication
+  Rendered pages/search.html.erb within layouts/newApplication (Duration: 0.5ms | Allocations: 66)
+  Rendered layout layouts/newApplication.html.erb (Duration: 36.2ms | Allocations: 10132)
+Completed 200 OK in 39ms (Views: 37.8ms | ActiveRecord: 0.0ms | Allocations: 10362)
+
+
+Started GET "/search" for ::1 at 2024-05-07 17:31:41 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/newApplication.html.erb
+  Rendering pages/search.html.erb within layouts/newApplication
+  Rendered pages/search.html.erb within layouts/newApplication (Duration: 0.7ms | Allocations: 66)
+  Rendered layout layouts/newApplication.html.erb (Duration: 62.8ms | Allocations: 9986)
+Completed 200 OK in 65ms (Views: 64.4ms | ActiveRecord: 0.0ms | Allocations: 10216)
+
+
+Started GET "/search" for ::1 at 2024-05-07 17:33:20 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/newApplication.html.erb
+  Rendering pages/search.html.erb within layouts/newApplication
+  Rendered pages/search.html.erb within layouts/newApplication (Duration: 0.5ms | Allocations: 66)
+  Rendered layout layouts/newApplication.html.erb (Duration: 35.4ms | Allocations: 8759)
+Completed 200 OK in 38ms (Views: 37.2ms | ActiveRecord: 0.0ms | Allocations: 8990)
+
+
+Started GET "/search" for ::1 at 2024-05-07 17:33:24 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/newApplication.html.erb
+  Rendering pages/search.html.erb within layouts/newApplication
+  Rendered pages/search.html.erb within layouts/newApplication (Duration: 0.7ms | Allocations: 66)
+  Rendered layout layouts/newApplication.html.erb (Duration: 45.0ms | Allocations: 8721)
+Completed 200 OK in 48ms (Views: 47.3ms | ActiveRecord: 0.0ms | Allocations: 8952)
+
+
+  
+ActionController::RoutingError (No route matches [GET] "/assets/stones/saphir.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/assets/stones/saphir.jpg"):
+  
+Started GET "/search" for ::1 at 2024-05-07 17:33:56 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/newApplication.html.erb
+  Rendering pages/search.html.erb within layouts/newApplication
+  Rendered pages/search.html.erb within layouts/newApplication (Duration: 0.6ms | Allocations: 66)
+  Rendered layout layouts/newApplication.html.erb (Duration: 34.3ms | Allocations: 8858)
+Completed 200 OK in 37ms (Views: 35.8ms | ActiveRecord: 0.0ms | Allocations: 9087)
+
+
+Started GET "/search" for ::1 at 2024-05-07 17:34:14 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/newApplication.html.erb
+  Rendering pages/search.html.erb within layouts/newApplication
+  Rendered pages/search.html.erb within layouts/newApplication (Duration: 0.6ms | Allocations: 66)
+  Rendered layout layouts/newApplication.html.erb (Duration: 30.7ms | Allocations: 8852)
+Completed 200 OK in 33ms (Views: 32.0ms | ActiveRecord: 0.0ms | Allocations: 9083)
+
+
+Started GET "/search" for ::1 at 2024-05-07 17:35:00 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/newApplication.html.erb
+  Rendering pages/search.html.erb within layouts/newApplication
+  Rendered pages/search.html.erb within layouts/newApplication (Duration: 2.9ms | Allocations: 352)
+  Rendered layout layouts/newApplication.html.erb (Duration: 51.7ms | Allocations: 10520)
+Completed 200 OK in 61ms (Views: 60.0ms | ActiveRecord: 0.0ms | Allocations: 11235)
+
+
+Started GET "/search" for ::1 at 2024-05-07 17:35:42 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/newApplication.html.erb
+  Rendering pages/search.html.erb within layouts/newApplication
+  Rendered pages/search.html.erb within layouts/newApplication (Duration: 1.3ms | Allocations: 66)
+  Rendered layout layouts/newApplication.html.erb (Duration: 62.7ms | Allocations: 9986)
+Completed 200 OK in 66ms (Views: 64.8ms | ActiveRecord: 0.0ms | Allocations: 10217)
+
+
+Started GET "/search" for ::1 at 2024-05-07 17:35:45 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/newApplication.html.erb
+  Rendering pages/search.html.erb within layouts/newApplication
+  Rendered pages/search.html.erb within layouts/newApplication (Duration: 0.5ms | Allocations: 66)
+  Rendered layout layouts/newApplication.html.erb (Duration: 31.6ms | Allocations: 8854)
+Completed 200 OK in 34ms (Views: 32.9ms | ActiveRecord: 0.0ms | Allocations: 9085)
+
+
+Started GET "/search" for ::1 at 2024-05-07 17:36:04 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/newApplication.html.erb
+  Rendering pages/search.html.erb within layouts/newApplication
+  Rendered pages/search.html.erb within layouts/newApplication (Duration: 0.5ms | Allocations: 66)
+  Rendered layout layouts/newApplication.html.erb (Duration: 48.8ms | Allocations: 8853)
+Completed 200 OK in 51ms (Views: 50.7ms | ActiveRecord: 0.0ms | Allocations: 9084)
+
+
+Started GET "/search" for ::1 at 2024-05-07 17:41:36 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/newApplication.html.erb
+  Rendering pages/search.html.erb within layouts/newApplication
+  Rendered pages/search.html.erb within layouts/newApplication (Duration: 32.3ms | Allocations: 6821)
+  Rendered layout layouts/newApplication.html.erb (Duration: 55.8ms | Allocations: 9574)
+Completed 200 OK in 65ms (Views: 61.9ms | ActiveRecord: 0.0ms | Allocations: 10291)
+
+
+Started GET "/search" for ::1 at 2024-05-07 17:41:46 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/newApplication.html.erb
+  Rendering pages/search.html.erb within layouts/newApplication
+  Rendered pages/search.html.erb within layouts/newApplication (Duration: 10.8ms | Allocations: 2271)
+  Rendered layout layouts/newApplication.html.erb (Duration: 26.8ms | Allocations: 5082)
+Completed 200 OK in 32ms (Views: 31.0ms | ActiveRecord: 0.0ms | Allocations: 5800)
+
+
+Started GET "/search" for ::1 at 2024-05-07 17:41:53 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/newApplication.html.erb
+  Rendering pages/search.html.erb within layouts/newApplication
+  Rendered pages/search.html.erb within layouts/newApplication (Duration: 22.9ms | Allocations: 6764)
+  Rendered layout layouts/newApplication.html.erb (Duration: 35.3ms | Allocations: 9471)
+Completed 200 OK in 40ms (Views: 39.4ms | ActiveRecord: 0.0ms | Allocations: 10188)
+
+
+Started GET "/search" for ::1 at 2024-05-07 17:42:22 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/newApplication.html.erb
+  Rendering pages/search.html.erb within layouts/newApplication
+  Rendered pages/search.html.erb within layouts/newApplication (Duration: 23.6ms | Allocations: 6819)
+  Rendered layout layouts/newApplication.html.erb (Duration: 35.9ms | Allocations: 9620)
+Completed 200 OK in 43ms (Views: 41.9ms | ActiveRecord: 0.0ms | Allocations: 10338)
+
+
+Started GET "/stones" for ::1 at 2024-05-07 17:42:58 +0300
+Processing by PagesController#stones as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/stones.html.erb within layouts/application
+  Rendered pages/stones.html.erb within layouts/application (Duration: 3.6ms | Allocations: 333)
+  Rendered layout layouts/application.html.erb (Duration: 164.9ms | Allocations: 13473)
+Completed 200 OK in 169ms (Views: 167.9ms | ActiveRecord: 0.0ms | Allocations: 13935)
+
+
+Started GET "/search" for ::1 at 2024-05-07 17:43:01 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/newApplication.html.erb
+  Rendering pages/search.html.erb within layouts/newApplication
+  Rendered pages/search.html.erb within layouts/newApplication (Duration: 22.8ms | Allocations: 6337)
+  Rendered layout layouts/newApplication.html.erb (Duration: 32.8ms | Allocations: 8878)
+Completed 200 OK in 35ms (Views: 34.4ms | ActiveRecord: 0.0ms | Allocations: 9108)
+
+
+Started GET "/search" for ::1 at 2024-05-07 17:44:28 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/newApplication.html.erb
+  Rendering pages/search.html.erb within layouts/newApplication
+  Rendered pages/search.html.erb within layouts/newApplication (Duration: 19.3ms | Allocations: 6304)
+  Rendered layout layouts/newApplication.html.erb (Duration: 28.9ms | Allocations: 8839)
+Completed 200 OK in 31ms (Views: 30.3ms | ActiveRecord: 0.0ms | Allocations: 9070)
+
+
+Started GET "/search" for ::1 at 2024-05-07 17:45:56 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/newApplication.html.erb
+  Rendering pages/search.html.erb within layouts/newApplication
+  Rendered pages/search.html.erb within layouts/newApplication (Duration: 28.2ms | Allocations: 7639)
+  Rendered layout layouts/newApplication.html.erb (Duration: 36.2ms | Allocations: 10216)
+Completed 200 OK in 38ms (Views: 37.5ms | ActiveRecord: 0.0ms | Allocations: 10447)
+
+
+Started GET "/search" for ::1 at 2024-05-07 17:46:02 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/newApplication.html.erb
+  Rendering pages/search.html.erb within layouts/newApplication
+  Rendered pages/search.html.erb within layouts/newApplication (Duration: 22.3ms | Allocations: 6373)
+  Rendered layout layouts/newApplication.html.erb (Duration: 30.6ms | Allocations: 8940)
+Completed 200 OK in 33ms (Views: 31.9ms | ActiveRecord: 0.0ms | Allocations: 9171)
+
+
+Started GET "/search" for ::1 at 2024-05-07 17:48:32 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/newApplication.html.erb
+  Rendering pages/search.html.erb within layouts/newApplication
+  Rendered pages/search.html.erb within layouts/newApplication (Duration: 80.4ms | Allocations: 7531)
+  Rendered layout layouts/newApplication.html.erb (Duration: 106.2ms | Allocations: 10083)
+Completed 200 OK in 109ms (Views: 107.8ms | ActiveRecord: 0.0ms | Allocations: 10313)
+
+
+Started GET "/search" for ::1 at 2024-05-07 17:49:07 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/newApplication.html.erb
+  Rendering pages/search.html.erb within layouts/newApplication
+  Rendered pages/search.html.erb within layouts/newApplication (Duration: 27.3ms | Allocations: 7534)
+  Rendered layout layouts/newApplication.html.erb (Duration: 37.4ms | Allocations: 10050)
+Completed 200 OK in 39ms (Views: 38.6ms | ActiveRecord: 0.0ms | Allocations: 10279)
+
+
+Started GET "/search" for ::1 at 2024-05-07 17:50:44 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/newApplication.html.erb
+  Rendering pages/search.html.erb within layouts/newApplication
+  Rendered pages/search.html.erb within layouts/newApplication (Duration: 22.0ms | Allocations: 6361)
+  Rendered layout layouts/newApplication.html.erb (Duration: 29.9ms | Allocations: 8913)
+Completed 200 OK in 32ms (Views: 31.3ms | ActiveRecord: 0.0ms | Allocations: 9144)
+
+
+Started GET "/search" for ::1 at 2024-05-07 17:51:26 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/newApplication.html.erb
+  Rendering pages/search.html.erb within layouts/newApplication
+  Rendered pages/search.html.erb within layouts/newApplication (Duration: 28.0ms | Allocations: 7554)
+  Rendered layout layouts/newApplication.html.erb (Duration: 38.1ms | Allocations: 10070)
+Completed 200 OK in 40ms (Views: 39.5ms | ActiveRecord: 0.0ms | Allocations: 10300)
+
+
+Started GET "/search" for ::1 at 2024-05-07 17:51:56 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/newApplication.html.erb
+  Rendering pages/search.html.erb within layouts/newApplication
+  Rendered pages/search.html.erb within layouts/newApplication (Duration: 18.6ms | Allocations: 6343)
+  Rendered layout layouts/newApplication.html.erb (Duration: 29.3ms | Allocations: 8899)
+Completed 200 OK in 31ms (Views: 30.4ms | ActiveRecord: 0.0ms | Allocations: 9130)
+
+
+Started GET "/search" for ::1 at 2024-05-07 17:53:51 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/newApplication.html.erb
+  Rendering pages/search.html.erb within layouts/newApplication
+  Rendered pages/search.html.erb within layouts/newApplication (Duration: 21.1ms | Allocations: 6301)
+  Rendered layout layouts/newApplication.html.erb (Duration: 31.1ms | Allocations: 8849)
+Completed 200 OK in 33ms (Views: 32.4ms | ActiveRecord: 0.0ms | Allocations: 9080)
+
+
+Started GET "/search" for ::1 at 2024-05-07 17:55:40 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/newApplication.html.erb
+  Rendering pages/search.html.erb within layouts/newApplication
+  Rendered pages/search.html.erb within layouts/newApplication (Duration: 39.3ms | Allocations: 6833)
+  Rendered layout layouts/newApplication.html.erb (Duration: 60.7ms | Allocations: 9664)
+Completed 200 OK in 69ms (Views: 67.5ms | ActiveRecord: 0.0ms | Allocations: 10381)
+
+
+Started GET "/search" for ::1 at 2024-05-07 17:55:55 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/newApplication.html.erb
+  Rendering pages/search.html.erb within layouts/newApplication
+  Rendered pages/search.html.erb within layouts/newApplication (Duration: 19.2ms | Allocations: 6723)
+  Rendered layout layouts/newApplication.html.erb (Duration: 29.7ms | Allocations: 9503)
+Completed 200 OK in 35ms (Views: 34.3ms | ActiveRecord: 0.0ms | Allocations: 10217)
+
+
+Started GET "/history" for ::1 at 2024-05-07 17:55:58 +0300
+Processing by PagesController#history as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/history.html.erb within layouts/application
+  Rendered pages/history.html.erb within layouts/application (Duration: 7.3ms | Allocations: 535)
+  Rendered layout layouts/application.html.erb (Duration: 162.0ms | Allocations: 13689)
+Completed 200 OK in 165ms (Views: 164.2ms | ActiveRecord: 0.0ms | Allocations: 14140)
+
+
+Started GET "/zircon.js" for ::1 at 2024-05-07 17:55:59 +0300
+Processing by PagesController#zircon as JS
+  Rendering pages/zircon.html.erb
+  Rendered pages/zircon.html.erb (Duration: 6.1ms | Allocations: 527)
+Completed 200 OK in 24ms (Views: 17.5ms | ActiveRecord: 0.0ms | Allocations: 1181)
+
+
+Started GET "/img/zircon/bannerzircon.jpg" for ::1 at 2024-05-07 17:56:00 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/img/zircon/bannerzircon.jpg"):
+  
+Started GET "/trends" for ::1 at 2024-05-07 17:56:00 +0300
+Processing by PagesController#trends as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/trends.html.erb within layouts/application
+  Rendered pages/trends.html.erb within layouts/application (Duration: 7.4ms | Allocations: 681)
+  Rendered layout layouts/application.html.erb (Duration: 81.0ms | Allocations: 7204)
+Completed 200 OK in 92ms (Views: 85.8ms | ActiveRecord: 0.0ms | Allocations: 8349)
+
+
+Started GET "/script.js" for ::1 at 2024-05-07 17:56:01 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/script.js"):
+  
+Started GET "/diamond.js" for ::1 at 2024-05-07 17:56:01 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/diamond.js"):
+  
+Started GET "/img/trends/bannerimg.jpg" for ::1 at 2024-05-07 17:56:02 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/img/trends/bannerimg.jpg"):
+  
+Started GET "/" for ::1 at 2024-05-07 17:56:19 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 2.9ms | Allocations: 461)
+  Rendered layout layouts/application.html.erb (Duration: 22.8ms | Allocations: 5473)
+Completed 200 OK in 25ms (Views: 24.1ms | ActiveRecord: 0.0ms | Allocations: 5800)
+
+
+Started GET "/" for ::1 at 2024-05-07 17:58:10 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.8ms | Allocations: 93)
+  Rendered layout layouts/application.html.erb (Duration: 18.7ms | Allocations: 5041)
+Completed 200 OK in 21ms (Views: 20.2ms | ActiveRecord: 0.0ms | Allocations: 5310)
+
+
+Started GET "/" for ::1 at 2024-05-07 17:58:22 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.8ms | Allocations: 127)
+  Rendered layout layouts/application.html.erb (Duration: 41.0ms | Allocations: 5233)
+Completed 200 OK in 50ms (Views: 48.2ms | ActiveRecord: 0.0ms | Allocations: 5766)
+
+
+Started GET "/" for ::1 at 2024-05-07 17:58:24 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.7ms | Allocations: 93)
+  Rendered layout layouts/application.html.erb (Duration: 20.2ms | Allocations: 5108)
+Completed 200 OK in 23ms (Views: 21.8ms | ActiveRecord: 0.0ms | Allocations: 5378)
+
+
+Started GET "/" for ::1 at 2024-05-07 17:58:41 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 3.2ms | Allocations: 478)
+  Rendered layout layouts/application.html.erb (Duration: 23.5ms | Allocations: 5694)
+Completed 200 OK in 30ms (Views: 28.4ms | ActiveRecord: 0.0ms | Allocations: 6602)
+
+
+Started GET "/search" for ::1 at 2024-05-07 18:01:09 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/newApplication.html.erb
+  Rendering pages/search.html.erb within layouts/newApplication
+  Rendered pages/search.html.erb within layouts/newApplication (Duration: 94.3ms | Allocations: 6795)
+  Rendered layout layouts/newApplication.html.erb (Duration: 132.3ms | Allocations: 9604)
+Completed 200 OK in 154ms (Views: 144.6ms | ActiveRecord: 0.0ms | Allocations: 9947)
+
+
+Started GET "/search" for ::1 at 2024-05-07 18:01:38 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/newApplication.html.erb
+  Rendering pages/search.html.erb within layouts/newApplication
+  Rendered pages/search.html.erb within layouts/newApplication (Duration: 28.5ms | Allocations: 6258)
+  Rendered layout layouts/newApplication.html.erb (Duration: 44.0ms | Allocations: 8768)
+Completed 200 OK in 47ms (Views: 46.2ms | ActiveRecord: 0.0ms | Allocations: 8999)
+
+
+Started GET "/search" for ::1 at 2024-05-07 18:02:10 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/newApplication.html.erb
+  Rendering pages/search.html.erb within layouts/newApplication
+  Rendered pages/search.html.erb within layouts/newApplication (Duration: 21.5ms | Allocations: 6256)
+  Rendered layout layouts/newApplication.html.erb (Duration: 28.4ms | Allocations: 8775)
+Completed 200 OK in 31ms (Views: 29.8ms | ActiveRecord: 0.0ms | Allocations: 9004)
+
+
+Started GET "/search" for ::1 at 2024-05-07 18:05:30 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/newApplication.html.erb
+  Rendering pages/search.html.erb within layouts/newApplication
+  Rendered pages/search.html.erb within layouts/newApplication (Duration: 24.5ms | Allocations: 6315)
+  Rendered layout layouts/newApplication.html.erb (Duration: 35.6ms | Allocations: 8870)
+Completed 200 OK in 38ms (Views: 37.3ms | ActiveRecord: 0.0ms | Allocations: 9101)
+
+
+Started GET "/search" for ::1 at 2024-05-07 18:05:48 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/newApplication.html.erb
+  Rendering pages/search.html.erb within layouts/newApplication
+  Rendered pages/search.html.erb within layouts/newApplication (Duration: 23.8ms | Allocations: 6371)
+  Rendered layout layouts/newApplication.html.erb (Duration: 37.0ms | Allocations: 8929)
+Completed 200 OK in 40ms (Views: 38.8ms | ActiveRecord: 0.0ms | Allocations: 9160)
+
+
+Started GET "/history" for ::1 at 2024-05-07 18:07:28 +0300
+Processing by PagesController#history as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/history.html.erb within layouts/application
+  Rendered pages/history.html.erb within layouts/application (Duration: 3.6ms | Allocations: 527)
+  Rendered layout layouts/application.html.erb (Duration: 24.2ms | Allocations: 5523)
+Completed 200 OK in 27ms (Views: 25.8ms | ActiveRecord: 0.0ms | Allocations: 5849)
+
+
+Started GET "/zircon.js" for ::1 at 2024-05-07 18:07:29 +0300
+Processing by PagesController#zircon as JS
+  Rendering pages/zircon.html.erb
+  Rendered pages/zircon.html.erb (Duration: 8.8ms | Allocations: 552)
+Completed 200 OK in 45ms (Views: 41.2ms | ActiveRecord: 0.0ms | Allocations: 2206)
+
+
+Started GET "/img/zircon/bannerzircon.jpg" for ::1 at 2024-05-07 18:07:29 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/img/zircon/bannerzircon.jpg"):
+  
